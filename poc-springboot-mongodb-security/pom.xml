@@ -16,10 +16,10 @@
 
   <dependencies>
     <!-- Don't commit -->
-    <!-- <dependency>
+    <dependency>
       <groupId>de.flapdoodle.embed</groupId>
       <artifactId>de.flapdoodle.embed.mongo</artifactId>
-    </dependency> -->
+    </dependency>
     <!-- Fix for modules -->
     <dependency>
       <groupId>javax.persistence</groupId>

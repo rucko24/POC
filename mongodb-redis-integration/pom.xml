@@ -18,10 +18,10 @@
 
   <dependencies>
     <!-- Don't commit -->
-    <!-- <dependency>
+    <dependency>
       <groupId>de.flapdoodle.embed</groupId>
       <artifactId>de.flapdoodle.embed.mongo</artifactId>
-    </dependency> -->
+    </dependency>
     <dependency>
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-lang3</artifactId>
