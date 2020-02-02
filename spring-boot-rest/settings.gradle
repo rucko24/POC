@@ -1,0 +1,4 @@
+rootProject.name = 'spring-boot-rest'
+
+include 'poc-spring-boot-rest-entities'
+include 'poc-spring-boot-rest-application'

@@ -84,6 +84,7 @@
       <scope>test</scope>
     </dependency>
     <!-- end::tests[] -->
+    
   </dependencies>
   
 </project>
