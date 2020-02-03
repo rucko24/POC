@@ -8,7 +8,7 @@ buildscript {
 }
 
 plugins {
-    id 'org.springframework.boot' version '2.2.4.RELEASE'
+    id 'org.springframework.boot' version '2.3.0.M1'
     id 'io.spring.dependency-management' version '1.0.9.RELEASE'
 }
 
@@ -50,7 +50,7 @@ subprojects {
         }
 
         maven {
-            url = 'http://repo.maven.apache.org/maven2'
+            url = 'https://repo.maven.apache.org/maven2'
         }
     }
 
